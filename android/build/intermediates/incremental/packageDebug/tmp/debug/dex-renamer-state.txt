@@ -1,0 +1,4 @@
+#Wed Mar 27 22:00:32 AZT 2019
+base.0=C\:\\Users\\Dream\\Desktop\\Flappy\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
